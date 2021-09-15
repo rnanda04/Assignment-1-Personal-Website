@@ -1,0 +1,63 @@
+body {
+  background-color: linen;
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.subtitle {
+  font-family: 'Montserrat', sans-serif;
+  text-align:  center; 
+  font-size: 8px;
+}
+
+.headshot {
+  padding-top: 10px;
+  margin: 10px 50px;
+}
+
+.headshot img {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 60%;
+}
+
+.logo {
+  padding-top: 10px;
+  margin: 10px 50px;
+}
+
+.logo img {
+  transition: 0.5s;
+  filter: grayscale(100%);
+  padding: 15px;
+  width: 230px;
+}
+
+.logo img:hover {
+  filter:grayscale(0%);
+  transform: scale(1.1);
+}
+
+.projects {
+   font-family: 'Montserrat', sans-serif;
+}
+
+.projects h1{
+  text-align: center;
+}
+
+.projects img {
+  transition: 0.5s;
+  filter: grayscale(100%);
+  width: 230px;
+}
+
+.projects h4 {
+  padding: 70px;
+}
