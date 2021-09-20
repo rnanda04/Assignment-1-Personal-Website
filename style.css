@@ -1,0 +1,71 @@
+body {
+  background-color: linen;
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.subtitle {
+  font-family: 'Montserrat', sans-serif;
+  text-align:  center; 
+  font-size: 8px;
+}
+
+.headshot {
+  padding-top: 10px;
+  margin: 10px 50px;
+  padding-bottom: 10px;
+}
+
+.headshot img {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20%;
+}
+
+.picture_p1 img {
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20%;
+}
+
+
+.projects {
+   font-family: 'Montserrat', sans-serif;
+}
+
+.projects h1{
+  text-align: center;
+}
+
+.projects img {
+  transition: 0.5s;
+  filter: grayscale(100%);
+  width: 230px;
+}
+
+.projects h4 {
+  padding: 70px;
+}
+
+.questions h1 {
+  font-size: 24px; 
+}
+
+.subtitle1 h2 {
+  margin-right: 300px; 
+  margin-left: 300px;
+}
+
+.subtitle2 h2 {
+  margin-right: 300px; 
+  margin-left: 300px;
+  margin-bottom: 100px;
+}
